@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TestPUN_ALLAUIGAN.sln"
+    "dotnet.defaultSolution": "GameNetworking-Finals.sln"
 }
